@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 /*
  * Builds a linked list using data entered by the user, one by one.
  * Prints the list data and then frees/deletes the list.
